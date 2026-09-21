@@ -1,0 +1,103 @@
+{
+  "students": [
+    {
+      "name": "Yug Yadav",
+      "rollNumber": "9033",
+      "phone": "9876543210",
+      "email": "YUG@gmail.com",
+      "age": 15,
+      "class": "9-A",
+      "grade": "A",
+      "image": "https://passportsizephoto.in/passport-size-photo-maker",
+      "id": 1
+    },
+    {
+      "name": "Diya Shah",
+      "rollNumber": "1027",
+      "phone": "9876501234",
+      "email": "diya.shah@gmail.com",
+      "age": 14,
+      "class": "9-B",
+      "grade": "A+",
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "Rohan Mehta",
+      "rollNumber": "1803",
+      "phone": "9898012345",
+      "email": "rohan.mehta@gmail.com",
+      "age": 16,
+      "class": "10-B",
+      "grade": "B+",
+      "image": "",
+      "id": 3
+    },
+    {
+      "name": "Isha Desai",
+      "rollNumber": "7414",
+      "phone": "9825098765",
+      "email": "isha.desai@gmail.com",
+      "age": 15,
+      "class": "10-A",
+      "grade": "A",
+      "image": "",
+      "id": 4
+    },
+    {
+      "name": "Kabir Joshi",
+      "rollNumber": "9105",
+      "phone": "9712345678",
+      "email": "kabir.joshi@gmail.com",
+      "age": 14,
+      "class": "9-A",
+      "grade": "B",
+      "image": "",
+      "id": 5
+    },
+    {
+      "name": "Ananya Nair",
+      "rollNumber": "5684",
+      "phone": "9909087654",
+      "email": "ananya.nair@gmail.com",
+      "age": 14,
+      "class": "9-A",
+      "grade": "A+",
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "Vaidehi Parmar",
+      "rollNumber": "7257",
+      "phone": "8638336972",
+      "email": "vaidehi99@gmail.com",
+      "age": 22,
+      "class": "3year",
+      "grade": "A",
+      "image": "",
+      "id": 9
+    },
+    {
+      "name": "Rathod Pranjal Narendrakumar",
+      "rollNumber": "7810",
+      "phone": "09638336972",
+      "email": "rathodpranjal99@gmail.com",
+      "age": 20,
+      "class": "4th year",
+      "grade": "A",
+      "image": "",
+      "id": 10
+    },
+    {
+      "name": "Harshit Mundhara",
+      "rollNumber": "7013",
+      "phone": "09638336972",
+      "email": "harshita@gmail.com",
+      "age": 21,
+      "class": "4th year",
+      "grade": "A",
+      "image": "https://passportsizephoto.in/passport-size-photo-maker",
+      "id": 11
+    }
+  ]
+}

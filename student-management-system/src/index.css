@@ -1,0 +1,106 @@
+/* Small theme on top of Bootstrap 5: white background + soft purple/blue accent */
+:root {
+  --accent: #5b5bd6;
+  --accent-dark: #4747b8;
+  --accent-soft: #eeeefc;
+  --line: #e6e6f2;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+.page-title {
+  font-weight: 600;
+}
+
+/* Cards: white with a thin border, no heavy shadows */
+.card {
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  box-shadow: none;
+}
+
+/* Primary button uses the accent colour */
+.btn-primary {
+  --bs-btn-bg: var(--accent);
+  --bs-btn-border-color: var(--accent);
+  --bs-btn-hover-bg: var(--accent-dark);
+  --bs-btn-hover-border-color: var(--accent-dark);
+  --bs-btn-active-bg: var(--accent-dark);
+  --bs-btn-active-border-color: var(--accent-dark);
+  --bs-btn-disabled-bg: var(--accent);
+  --bs-btn-disabled-border-color: var(--accent);
+  --bs-btn-focus-shadow-rgb: 91, 91, 214;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--accent);
+  --bs-btn-border-color: var(--accent);
+  --bs-btn-hover-bg: var(--accent);
+  --bs-btn-hover-border-color: var(--accent);
+  --bs-btn-active-bg: var(--accent-dark);
+  --bs-btn-active-border-color: var(--accent-dark);
+  --bs-btn-focus-shadow-rgb: 91, 91, 214;
+}
+
+/* Form focus colour */
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 0.2rem rgba(91, 91, 214, 0.2);
+}
+
+/* Navbar: highlight the active link */
+.navbar .nav-link {
+  color: #495057;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.9rem;
+}
+
+.navbar .nav-link:hover {
+  color: var(--accent);
+}
+
+.navbar .nav-link.active {
+  color: var(--accent);
+  background-color: var(--accent-soft);
+  font-weight: 500;
+}
+
+/* Student image / initial */
+.avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+
+.avatar-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--accent-soft);
+  color: var(--accent);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.badge-accent {
+  background-color: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* Demo credentials box on the login page */
+.demo-box {
+  background-color: var(--accent-soft);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+}
