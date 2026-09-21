@@ -54,27 +54,27 @@ Bootstrap is used to create a clean, modern, and responsive user interface with 
 
 ![Login Page](student-management-system/screenshots/login-page.png)
 
-![User Profile](screenshots/user-profile.png)
+![User Profile](student-management-system/screenshots/user-profile.png)
 
-![Add Student](screenshots/add-student.png)
+![Add Student](student-management-system/screenshots/add-student.png)
 
-![Add Student Successfully](screenshots/add-student-successfully.png)
+![Add Student Successfully](student-management-system/screenshots/add-student-successfully.png)
 
-![New Student Added](screenshots/new-student-added.png)
+![New Student Added](student-management-system/screenshots/new-student-added.png)
 
-![Edit Student](screenshots/edit-student.png)
+![Edit Student](student-management-system/screenshots/edit-student.png)
 
-![Edit Successfully](screenshots/edit-successfull.png)
+![Edit Successfully](student-management-system/screenshots/edit-successfull.png)
 
-![Delete Student](screenshots/delete.png)
+![Delete Student](student-management-system/screenshots/delete.png)
 
-![Sort Class](screenshots/sort-class.png)
+![Sort Class](student-management-system/screenshots/sort-class.png)
 
-![Sort Roll Number](screenshots/sort-rollNo.png)
+![Sort Roll Number](student-management-system/screenshots/sort-rollNo.png)
 
-![Ascending Order](screenshots/ascending-order.png)
+![Ascending Order](student-management-system/screenshots/ascending-order.png)
 
-![Descending Order](screenshots/descending-order.png)
+![Descending Order](student-management-system/screenshots/descending-order.png)
 
 ## Conclusion
 
