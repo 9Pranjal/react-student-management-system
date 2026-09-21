@@ -52,7 +52,7 @@ Bootstrap is used to create a clean, modern, and responsive user interface with 
 
 ## Screenshots
 
-![Login Page](screenshots/login-page.png)
+![Login Page](student-management-system/screenshots/login-page.png)
 
 ![User Profile](screenshots/user-profile.png)
 
